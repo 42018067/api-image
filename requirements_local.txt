@@ -3,3 +3,4 @@ dj_static==0.0.6
 Django==4.0.2
 djangorestframework==3.13.1
 python-decouple==3.6
+cloudinary==0.2.1
